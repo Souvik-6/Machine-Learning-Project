@@ -38,9 +38,3 @@ The project effectively demonstrated the application of machine learning in pred
 
 ## Getting Started 🚀
 To replicate the analysis, clone the repository, install the required Python packages, and run the Jupyter notebooks in order: `Phase1_Group91.ipynb` for data preprocessing and EDA, followed by `Phase2_Group91.ipynb` for predictive modeling.
-
-## Contributing 🤝
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-## Authors 👥
-- Souvik Ghosh - Initial work and documentation
